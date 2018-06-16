@@ -2,4 +2,4 @@
 This is a repo of a bunch of cool links from our review channel.
 
 
-[try.github.io](Github Tutorial)
+[Github Tutorial](try.github.io)
