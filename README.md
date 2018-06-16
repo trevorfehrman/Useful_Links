@@ -6,7 +6,7 @@ This is a repo of a bunch of cool links from our review channel.
 
 [Vim Tutorial](http://www.openvim.com/)
 
-[Formatting for this kind of thing - Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links_
+[Formatting for this kind of thing - Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links_)
 
 [Emmet Documentation](https://docs.emmet.io/)
 
