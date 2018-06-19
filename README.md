@@ -8,7 +8,7 @@
 
 [Github Tutorial](https://try.github.io)
 
-###
+### VS Code Stuff
 
 [VS Code Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
