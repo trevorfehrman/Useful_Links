@@ -14,12 +14,17 @@
 
 
 ### UI
+[CSS Tricks Website - Excellent Resource](https://css-tricks.com/)
 
 [Specificity Calculator](https://specificity.keegan.st/)
 
 [CSS Diner](https://flukeout.github.io/#)
 
 [Flexbox Practice](https://codepad.co/snippet/osAbiFAi)
+
+[Flexbox Cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
+
+
 
 
 ### For the Brave
