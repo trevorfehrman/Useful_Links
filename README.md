@@ -39,4 +39,6 @@
 
 [RegEx Practice](https://regexr.com)
 
+[Fira Code](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions)
+
 
