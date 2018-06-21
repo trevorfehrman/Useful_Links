@@ -28,14 +28,22 @@
 
 [Flexbox Cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
 
+### JS
+
+[Code Visualizer - Works for more than just Python!] (http://pythontutor.com/visualize.html#mode=edit)
 
 
 
-### For the Brave
+
+## For the Brave
 
 [Vim Tutorial](http://www.openvim.com/)
 
 [Emmet Documentation](https://docs.emmet.io/)
+
+[Fira Code](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions)
+
+### RegEx Stuff
 
 [RegEx Practice](https://regexr.com)
 
@@ -43,6 +51,8 @@
 
 [RegEx Tutorial](https://regexone.com/)
 
-[Fira Code](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions)
+[RegEx Cheatsheet](https://www.debuggex.com/cheatsheet/regex/javascript)
+
+
 
 
