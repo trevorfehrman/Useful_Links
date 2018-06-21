@@ -39,6 +39,8 @@
 
 [RegEx Practice](https://regexr.com)
 
+[RegEx Diagram Maker](https://regexper.com/)
+
 [Fira Code](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions)
 
 
