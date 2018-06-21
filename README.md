@@ -30,7 +30,7 @@
 
 ### JS
 
-[Code Visualizer Works for more than just Python] (http://pythontutor.com/visualize.html#mode=edit)
+[CodeVisualizer](http://pythontutor.com/visualize.html#mode=edit)
 
 
 
