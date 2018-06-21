@@ -41,6 +41,8 @@
 
 [RegEx Diagram Maker](https://regexper.com/)
 
+[RegEx Tutorial](https://regexone.com/)
+
 [Fira Code](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions)
 
 
