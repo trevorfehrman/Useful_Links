@@ -51,7 +51,7 @@
 
 [RegEx Tutorial](https://regexone.com/)
 
-[RegEx Cheatsheet](https://www.debuggex.com/cheatsheet/regex/javascript)
+[RegEx Cheatsheet](https://www.debuggex.com/cheatsheet/regex/javascript) 
 
 
 
