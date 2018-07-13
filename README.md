@@ -16,6 +16,9 @@
 
 [VS Code Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
+### The Console
+[Mastering the Developer Console](http://blog.teamtreehouse.com/mastering-developer-tools-console)
+
 
 ### UI
 [CSS Tricks Website - Excellent Resource](https://css-tricks.com/)
