@@ -19,6 +19,8 @@
 ### The Console
 [Mastering the Developer Console](http://blog.teamtreehouse.com/mastering-developer-tools-console)
 
+[Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/?utm_source=dcc&utm_medium=redirect&utm_campaign=2016q3)
+
 
 ### UI
 [CSS Tricks Website - Excellent Resource](https://css-tricks.com/)
