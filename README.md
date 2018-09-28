@@ -23,6 +23,8 @@
 
 [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/?utm_source=dcc&utm_medium=redirect&utm_campaign=2016q3)
 
+### Baisc Webdev
+[An excellent collection of various front end resources](http://codingheroes.io/resources/)
 
 ### UI
 [CSS Tricks Website - Excellent Resource](https://css-tricks.com/)
