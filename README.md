@@ -1,5 +1,10 @@
 # Useful_Links
+
 ## This is a repo of a bunch of cool links from our review channel.
+
+## You Don't Know JS
+### If you only read one series, this is the one you should read asking for a friend (thanks ldub)
+[YDKJS](https://github.com/getify/You-Dont-Know-JS)
 
 ### How do I edit this file?
 [Formatting for this kind of thing - Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links_)
